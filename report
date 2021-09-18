@@ -6,13 +6,13 @@ IDEA.
 
 В результате тестирования выявлены следующие дефекты:
 При выполнении операции сложения, результат суммы переменных отображается не корректно.
-https://github.com/IlyaKosov2211/Object_1.1/issues/1#issue-1000039822 
+https://github.com/IlyaKosov2211/Object_1.1/issues/1#issue-1000039822
 
 Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты*:
 
-Приложение Lightshot
-Intellij IDEA
+Приложение
+Тест кейс
 
 В качестве тестовых данных использовались данные <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md>:
 
